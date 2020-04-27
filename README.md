@@ -1,1 +1,1 @@
-#HTML、CSS、Javascriptの練習
+基本練習
